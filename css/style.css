@@ -1,0 +1,47 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(../img/body.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    opacity: 0.99;
+}
+
+article {
+    width: 90%;
+    height: auto;
+}
+
+section {
+    width: 60%;
+    height: auto;
+    margin: 11% 24%;
+    padding: 10px 0px;
+    background-color: rgb(41, 39, 39);
+    opacity: 0.95;
+    border-radius: 5px;
+}
+
+ h1 {
+    text-align: center;
+    font-size: 1.3rem;
+    color: white;
+}
+
+p {
+    text-align: center;
+    color: white;
+}
+
+video {
+    width: 60%;
+    height: auto;
+    margin: 0px 21%;
+}
+
+audio {
+    margin-left: 30%;
+    margin-top: -40px;
+}
